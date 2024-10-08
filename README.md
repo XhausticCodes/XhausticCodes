@@ -1,5 +1,6 @@
 <h1 align="Center">Yoo! This is Harsh, a.k.a Xhaus</h1>
-<p align="center"><b>Way to Goo 🚀🚀</b></p>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Way+To+Goo+🚀+🚀&center=true&vCenter=true&width=600&height=100)](https://git.io/typing-svg)
 
 ###
 
