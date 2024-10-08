@@ -22,11 +22,13 @@
   <img src="https://streak-stats.demolab.com?user=XhausticCodes&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XhausticCodes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-###
+<div align="center">
 
 
+![deku-java](https://github.com/user-attachments/assets/8c0c724e-f002-48a9-bb50-4b02fa178f0a)
+
+
+
+</div>
 
 ###
